@@ -34,6 +34,7 @@ body .container {
 }
 .order-text{
     color: rgba(201, 199, 199, 0.909);
+    text-align: justify;
 }
 .change-wrapper{
     display: flex;
